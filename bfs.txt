@@ -25,8 +25,3 @@ def bfs(visited, graph, node):
 # driver code
 bfs(visited, graph, 'A')
 
-C
-gerwf
-
-C
-
